@@ -1,0 +1,1 @@
+This directory consists of some repeatedly used functions that are commonly used in the project. It should only contain only common js functions and objects like dropdown options, regex conditions, data formatting, etc. 

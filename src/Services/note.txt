@@ -1,0 +1,6 @@
+This directory will be added if using redux in project. There are 3 folders inside which are:
+    1. actions
+    2. reducers
+    3. constant sub-folders (to manage state)
+The actions and reducers will be called in almost all the pages, so create actions, reducers & constants according to pages name.
+
